@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| 🎖️ **BTL1** | Blue Team Labs One — Security Operations |
+| 🎖️ **BTL1** | Blue Team Level One — Security Blue Team |
 | 🎖️ **SEC1** | TryHackMe — Cyber Security 101 Certification |
 | 🥇 **Top 1%** | TryHackMe — Global ranking |
 | 🥇 **Top 1%** | BTLO (Blue Team Labs Online) — Global ranking |
@@ -30,24 +30,6 @@
 > Cowrie SSH Honeypot on Rocky Linux + Splunk SIEM
 > Brute-force simulation with Hydra, real-time attacker behavior analysis and log investigation
 
----
-
-## 🛠️ Skills & Tools
-
-**SIEM & Monitoring**
-`Elasticsearch` `Kibana` `Wazuh` `Splunk` `Filebeat`
-
-**Networking & Firewall**
-`pfSense` `Nmap` `Wireshark` `TCP/IP`
-
-**Attack Simulation**
-`Kali Linux` `Nmap` `Gobuster` `Nikto` `Hydra` `curl`
-
-**Operating Systems**
-`Ubuntu Server` `Rocky Linux` `Windows Server` `Kali Linux`
-
-**Other**
-`Apache2` `MySQL` `PHP` `VMware` `Linux CLI`
 
 ---
 
