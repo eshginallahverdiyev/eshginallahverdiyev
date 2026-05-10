@@ -1,0 +1,58 @@
+# Hi, I'm Eshgin Allahverdiyev 👋
+
+🛡️ **Cybersecurity Practitioner** focused on Blue Team operations, SOC analysis, and threat detection engineering.
+
+---
+
+## 🏆 Certifications & Rankings
+
+| | |
+|---|---|
+| 🎖️ **BTL1** | Blue Team Labs One — Security Operations |
+| 🎖️ **SEC1** | TryHackMe — Cyber Security 101 Certification |
+| 🥇 **Top 1%** | TryHackMe — Global ranking |
+| 🥇 **Top 1%** | BTLO (Blue Team Labs Online) — Global ranking |
+
+---
+
+## 🔬 Home Lab Projects
+
+### 🔵 [Web Threat Detection & SIEM Analysis](https://github.com/eshginallahverdiyev/Web-Threat-Detection-SIEM-Analysis)
+> Ubuntu Server + Apache2 + ELK Stack (Elasticsearch, Kibana, Filebeat)
+> Attack simulation with Kali Linux — Nmap, Gobuster, Nikto, SQL Injection via curl
+> Full log ingestion, threat detection and analysis in Kibana Discover
+
+### 🔵 [SOC Home Lab](https://github.com/eshginallahverdiyev/SOC-Home-Lab)
+> Wazuh SIEM/XDR + pfSense Firewall + Windows 11 Enterprise (target) + Kali Linux (adversary)
+> Threat detection, incident response and security monitoring in a fully isolated virtual environment
+
+### 🔵 [SOC Honeypot Lab](https://github.com/eshginallahverdiyev/SOC-Honeypot-Lab)
+> Cowrie SSH Honeypot on Rocky Linux + Splunk SIEM
+> Brute-force simulation with Hydra, real-time attacker behavior analysis and log investigation
+
+---
+
+## 🛠️ Skills & Tools
+
+**SIEM & Monitoring**
+`Elasticsearch` `Kibana` `Wazuh` `Splunk` `Filebeat`
+
+**Networking & Firewall**
+`pfSense` `Nmap` `Wireshark` `TCP/IP`
+
+**Attack Simulation**
+`Kali Linux` `Nmap` `Gobuster` `Nikto` `Hydra` `curl`
+
+**Operating Systems**
+`Ubuntu Server` `Rocky Linux` `Windows Server` `Kali Linux`
+
+**Other**
+`Apache2` `MySQL` `PHP` `VMware` `Linux CLI`
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eshginallahverdiyev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshginallahverdiyev/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![BTLO](https://img.shields.io/badge/BTLO-Top%201%25-00ADEF?style=flat&logoColor=white)](https://blueteamlabs.online)
