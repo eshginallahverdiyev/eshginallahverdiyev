@@ -10,6 +10,7 @@
 |---|---|
 | 🎖️ **BTL1** | Blue Team Level One — Security Blue Team |
 | 🎖️ **SEC1** | TryHackMe — Cyber Security 101 Certification |
+| 🎖️ **AI1**  | TryHackMe — AI Security Level 1 Certification |
 | 🥇 **Top 1%** | TryHackMe — Global ranking |
 | 🥇 **Top 1%** | BTLO (Blue Team Labs Online) — Global ranking |
 
