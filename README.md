@@ -38,4 +38,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eshginallahverdiyev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshginallahverdiyev/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Eshgin)
-[![BTLO](https://img.shields.io/badge/BTLO-Top%201%25-00ADEF?style=flat&logoColor=white)](https://blueteamlabs.online/public/user/3958dee9edb3c1b9fc6bff)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019dd962-b08f-7363-860e-6ed7722fef02)
+[![BTLO](https://img.shields.io/badge/BTLO-Top%201%25-00ADEF?style=flat)](https://blueteamlabs.online/public/user/3958dee9edb3c1b9fc6bff)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-FF6B00?style=flat)](https://cyberdefenders.org/p/Eshgin/)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-1E1E2E?style=flat)](https://app.letsdefend.io/user/Eshgin)
