@@ -63,3 +63,6 @@ digital forensics, and SIEM operations. Holds a Bachelor’s degree in Informati
 > Brute-force simulation with Hydra, real-time attacker behavior analysis and log investigation
 
 ### 🔵 [Microsoft-Sentinentel-Defender-SOC-Lab](https://github.com/eshginallahverdiyev/Microsoft-Sentinentel-Defender-SOC-Lab)
+> Azure VM (honeypot) + Microsoft Sentinel + Microsoft Defender for Endpoint + Kali Linux (adversary) — RDP brute-force with Hydra and MITRE ATT&CK-mapped simulation with Atomic Red Team, KQL threat hunting and full incident investigation in Defender & Sentinel
+
+
