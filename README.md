@@ -61,3 +61,5 @@ digital forensics, and SIEM operations. Holds a Bachelor’s degree in Informati
 ### 🔵 [SOC Honeypot Lab](https://github.com/eshginallahverdiyev/SOC-Honeypot-Lab)
 > Cowrie SSH Honeypot on Rocky Linux + Splunk SIEM
 > Brute-force simulation with Hydra, real-time attacker behavior analysis and log investigation
+
+### 🔵 [Microsoft-Sentinentel-Defender-SOC-Lab](https://github.com/eshginallahverdiyev/Microsoft-Sentinentel-Defender-SOC-Lab)
