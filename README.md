@@ -44,6 +44,10 @@ digital forensics, and SIEM operations. Holds a Bachelor’s degree in Informati
     <td><img src="images/LetsDefend%20Logo.png" width="28"/></td>
     <td><a href="https://app.letsdefend.io/user/Eshgin"><b>LetsDefend</b> — Eshgin</a></td>
   </tr>
+  <tr>
+    <td><img src="images/credly-logo.png" width="28"/></td>
+    <td><a href="https://www.credly.com/users/eshginallahverdiyev"><b>Credly</b> — Eshgin Allahverdiyev</a></td>
+  </tr>
 </table>
 
 ---
