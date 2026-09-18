@@ -12,6 +12,7 @@ digital forensics, and SIEM operations. Holds a Bachelor’s degree in Informati
   <img src="images/Security%20Blue%20Team%20%28Centri%29%20-%20Blue%20Team%20Level%201%20%28BTL1%29.png" alt="BTL1 Certificate" width="260" height="180"/>
   <img src="images/TryHackMe%20Cyber%20Security%20101%20%28SEC1%29.png" alt="SEC1 Certificate" width="260" height="180"/>
   <img src="images/TryHackMe%20AI%20Security%20Level%201%28AI1%29.png" alt="AI1 Certificate" width="260" height="180"/>
+  <img src="images/CRTA.png" alt="Certified Red Team Analyst [CRTA]" width="260" height="180"/>
 </p>
 
 ---
