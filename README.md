@@ -1,6 +1,6 @@
 # Hi, I'm Eshgin Allahverdiyev 👋
 
-🛡️ **SOC Analyst** with hands-on experience in security monitoring, alert triage, incident response, log and network traffic analysis, phishing analysis, and digital forensics. Ranked Grandmaster (the highest attainable rank) on Hack The Box and TryHackMe, and #1 all-time in Azerbaijan on TryHackMe. Maintains top 1% rankings across major global cybersecurity platforms. Holds a Bachelor’s degree in Information Technology alongside practical certifications including BTL1, AI1, SEC1, CRTA, and has completed Hack The Box’s CPTS, CWES, and CDSA job-role paths. Builds and operates SOC home labs to detect and investigate adversary behavior mapped to MITRE ATT&CK.
+🛡️ **SOC Analyst** with hands-on experience in security monitoring, alert triage, incident response, log and network traffic analysis, phishing analysis, and digital forensics. Ranked Grandmaster (the highest attainable rank) on Hack The Box and TryHackMe, and #1 all-time in Azerbaijan on TryHackMe. Maintains top 1% rankings across major global cybersecurity platforms. Holds a Bachelor’s degree in Information Technology alongside practical certifications including BTL1, AI1, SEC1, CRTA, AD-RTS, and has completed Hack The Box’s CPTS, CWES, CDSA job-role paths. Builds and operates SOC home labs to detect and investigate adversary behavior mapped to MITRE ATT&CK.
 
 ---
 
