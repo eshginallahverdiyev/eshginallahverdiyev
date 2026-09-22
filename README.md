@@ -11,6 +11,7 @@
   <img src="images/TryHackMe%20Cyber%20Security%20101%20%28SEC1%29.png" alt="SEC1 Certificate" width="260" height="180"/>
   <img src="images/TryHackMe%20AI%20Security%20Level%201%28AI1%29.png" alt="AI1 Certificate" width="260" height="180"/>
   <img src="images/CRTA.png" alt="Certified Red Team Analyst [CRTA]" width="260" height="180"/>
+  <img src="images/Certified AD Red Team Specialist (AD-RTS).png" alt="Certified AD Red Team Specialist (AD-RTS)" width="260" height="180"/>
 </p>
 
 ---
