@@ -53,12 +53,12 @@
 
 ## 🔬 Home Lab Projects
 
-### 🔵 [AI-SOC-Copilot](https://github.com/eshginallahverdiyev/AI-SOC-Copilot)
+### 🔵 [AI SOC Copilot](https://github.com/eshginallahverdiyev/AI-SOC-Copilot)
 > n8n + Wazuh + Gemini AI + Threat Intelligence (VirusTotal, URLScan, AbuseIPDB, MalwareBazaar) — automated Wazuh alert triage and phishing & attachment analysis
 > AI-generated structured verdicts with deterministic guard rails, MITRE-aware context and HTML incident reports delivered to the analyst's inbox
 > Attack simulation with Atomic Red Team — n8n in Docker + Wazuh VM
 
-### 🔵 [Microsoft-Sentinentel-Defender-SOC-Lab](https://github.com/eshginallahverdiyev/Microsoft-Sentinentel-Defender-SOC-Lab)
+### 🔵 [Microsoft Sentinel Defender SOC Lab](https://github.com/eshginallahverdiyev/Microsoft-Sentinel-Defender-SOC-Lab)
 > Azure VM (honeypot) + Microsoft Sentinel + Microsoft Defender for Endpoint + Kali Linux (adversary) — RDP brute-force with Hydra and MITRE ATT&CK-mapped simulation with Atomic Red Team, KQL threat hunting and full incident investigation in Defender & Sentinel
 
 ### 🔵 [Web Threat Detection & SIEM Analysis](https://github.com/eshginallahverdiyev/Web-Threat-Detection-SIEM-Analysis)
