@@ -58,6 +58,10 @@
 > AI-generated structured verdicts with deterministic guard rails, MITRE-aware context and HTML incident reports delivered to the analyst's inbox
 > Attack simulation with Atomic Red Team — n8n in Docker + Wazuh VM
 
+### 🔵 [BlackBasta Ransomware Analysis Lab](https://github.com/eshginallahverdiyev/BlackBasta-Ransomware-Analysis-Lab)
+> Isolated FLARE-VM lab (VMware) + Black Basta ransomware sample — static analysis (pestudio, FLOSS, capa, PE-bear), VirusTotal threat intelligence and dynamic analysis (Procmon, Regshot, FakeNet-NG)
+> MITRE ATT&CK mapping, IOC extraction and detection engineering with 22 YARA rules, Sigma rules and KQL hunting queries
+
 ### 🔵 [Microsoft Sentinel Defender SOC Lab](https://github.com/eshginallahverdiyev/Microsoft-Sentinel-Defender-SOC-Lab)
 > Azure VM (honeypot) + Microsoft Sentinel + Microsoft Defender for Endpoint + Kali Linux (adversary) — RDP brute-force with Hydra and MITRE ATT&CK-mapped simulation with Atomic Red Team, KQL threat hunting and full incident investigation in Defender & Sentinel
 
@@ -73,5 +77,3 @@
 ### 🔵 [SOC Honeypot Lab](https://github.com/eshginallahverdiyev/SOC-Honeypot-Lab)
 > Cowrie SSH Honeypot on Rocky Linux + Splunk SIEM
 > Brute-force simulation with Hydra, real-time attacker behavior analysis and log investigation
-
-
